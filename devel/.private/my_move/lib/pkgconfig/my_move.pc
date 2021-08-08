@@ -1,0 +1,8 @@
+prefix=/home/stefan/ws_moveit/devel/.private/my_move
+
+Name: my_move
+Description: Description of my_move
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/stefan/ws_moveit/devel/.private/my_move/share/my_move/cmake/my_moveConfig-version.cmake

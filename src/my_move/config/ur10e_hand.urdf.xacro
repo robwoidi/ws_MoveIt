@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://ros.org/wiki/xacro"
+       name="ur10e" >
+
+  <!-- common stuff -->
+  <!--<xacro:include filename="$(find ur_e_description)/urdf/common.gazebo.xacro" />
+  -->
+  <!-- ur10e -->
+  <xacro:include filename="$(find ur_e_description)/urdf/ur10e.urdf.xacro" />
+  <!-- hand -->
+  <xacro:include filename="$(find franka_description)/robots/hand.xacro"/>
+  
+  <!-- arm -->
+  <xacro:ur10e_robot prefix="" joint_limited="false"/>
+
+  <!-- attach gripper -->
+  <xacro:hand ns="panda" xyz="0 0 0.01" rpy="0 0 0" connected_to="tool0"/>
+
+  <link name="world" />
+
+  <joint name="world_joint" type="fixed">
+    <parent link="world" />
+    <child link = "base_link" />
+    <origin xyz="0.0 0.0 0.0" rpy="0.0 0.0 0.0" />
+  </joint>
+
+</robot>

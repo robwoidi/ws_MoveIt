@@ -1,0 +1,8 @@
+prefix=/home/stefan/ws_moveit/install
+
+Name: icl_ur5_setup_bringup
+Description: Description of icl_ur5_setup_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

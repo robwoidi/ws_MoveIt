@@ -1,0 +1,8 @@
+prefix=/home/stefan/ws_moveit/install
+
+Name: ur10e_robotiq140_moveit_config_alt
+Description: Description of ur10e_robotiq140_moveit_config_alt
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+# ROboter spawnen
+rosrun gazebo_ros spawn_model -file `pwd`/src/panda_moveit_config/config/panda_arm_hand_self.urdf.xacro -urdf -x 0 -y 0 -z 0 -model panda

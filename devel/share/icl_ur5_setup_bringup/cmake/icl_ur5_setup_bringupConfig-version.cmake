@@ -1,0 +1,1 @@
+/home/stefan/ws_moveit/devel/.private/icl_ur5_setup_bringup/share/icl_ur5_setup_bringup/cmake/icl_ur5_setup_bringupConfig-version.cmake

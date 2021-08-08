@@ -1,0 +1,2 @@
+robotiq/robotiq
+/home/stefan/ws_moveit/devel/.private/robotiq/cmake.lock /home/stefan/ws_moveit/devel/./cmake.lock

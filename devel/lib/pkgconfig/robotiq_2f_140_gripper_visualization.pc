@@ -1,0 +1,1 @@
+/home/stefan/ws_moveit/devel/.private/robotiq_2f_140_gripper_visualization/lib/pkgconfig/robotiq_2f_140_gripper_visualization.pc

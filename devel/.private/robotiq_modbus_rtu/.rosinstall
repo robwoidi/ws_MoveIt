@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/stefan/ws_moveit/devel/.private/robotiq_modbus_rtu/setup.sh

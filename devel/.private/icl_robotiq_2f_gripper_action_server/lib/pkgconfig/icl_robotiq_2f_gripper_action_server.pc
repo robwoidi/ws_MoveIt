@@ -1,0 +1,8 @@
+prefix=/home/stefan/ws_moveit/devel/.private/icl_robotiq_2f_gripper_action_server
+
+Name: icl_robotiq_2f_gripper_action_server
+Description: Description of icl_robotiq_2f_gripper_action_server
+Version: 1.0.0
+Cflags: -I/home/stefan/ws_moveit/src/ur5_with_robotiq_gripper/icl_robotiq_2f_gripper_action_server/include
+Libs: -L${prefix}/lib 
+Requires: actionlib actionlib_msgs robotiq_2f_gripper_control roscpp

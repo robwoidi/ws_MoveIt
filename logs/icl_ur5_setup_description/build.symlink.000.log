@@ -1,0 +1,3 @@
+Symlinking /home/stefan/ws_moveit/devel/lib/pkgconfig/icl_ur5_setup_description.pc
+Symlinking /home/stefan/ws_moveit/devel/share/icl_ur5_setup_description/cmake/icl_ur5_setup_descriptionConfig.cmake
+Symlinking /home/stefan/ws_moveit/devel/share/icl_ur5_setup_description/cmake/icl_ur5_setup_descriptionConfig-version.cmake

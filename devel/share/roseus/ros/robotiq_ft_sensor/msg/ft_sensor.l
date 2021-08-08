@@ -1,0 +1,1 @@
+/home/stefan/ws_moveit/devel/.private/robotiq_ft_sensor/share/roseus/ros/robotiq_ft_sensor/msg/ft_sensor.l

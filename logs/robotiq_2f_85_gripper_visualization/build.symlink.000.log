@@ -1,0 +1,3 @@
+Symlinking /home/stefan/ws_moveit/devel/lib/pkgconfig/robotiq_2f_85_gripper_visualization.pc
+Symlinking /home/stefan/ws_moveit/devel/share/robotiq_2f_85_gripper_visualization/cmake/robotiq_2f_85_gripper_visualizationConfig-version.cmake
+Symlinking /home/stefan/ws_moveit/devel/share/robotiq_2f_85_gripper_visualization/cmake/robotiq_2f_85_gripper_visualizationConfig.cmake

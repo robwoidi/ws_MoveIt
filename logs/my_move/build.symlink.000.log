@@ -1,0 +1,9 @@
+Symlinking /home/stefan/ws_moveit/devel/lib/my_move/arm_move.py
+Symlinking /home/stefan/ws_moveit/devel/lib/my_move/second_move.py
+Symlinking /home/stefan/ws_moveit/devel/lib/my_move/arm_hand_move.py
+Symlinking /home/stefan/ws_moveit/devel/lib/my_move/third_move.py
+Symlinking /home/stefan/ws_moveit/devel/lib/my_move/hand_move.py
+Symlinking /home/stefan/ws_moveit/devel/lib/my_move/cmake.lock
+Symlinking /home/stefan/ws_moveit/devel/lib/pkgconfig/my_move.pc
+Symlinking /home/stefan/ws_moveit/devel/share/my_move/cmake/my_moveConfig.cmake
+Symlinking /home/stefan/ws_moveit/devel/share/my_move/cmake/my_moveConfig-version.cmake

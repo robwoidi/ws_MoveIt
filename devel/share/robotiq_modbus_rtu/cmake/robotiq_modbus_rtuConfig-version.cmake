@@ -1,0 +1,1 @@
+/home/stefan/ws_moveit/devel/.private/robotiq_modbus_rtu/share/robotiq_modbus_rtu/cmake/robotiq_modbus_rtuConfig-version.cmake

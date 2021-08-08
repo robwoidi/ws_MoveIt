@@ -1,0 +1,1 @@
+/home/stefan/ws_moveit/devel/.private/icl_ur5_setup_bringup/lib/pkgconfig/icl_ur5_setup_bringup.pc
